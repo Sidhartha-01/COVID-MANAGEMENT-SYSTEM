@@ -10,7 +10,7 @@ print("*************************************************************************
 
 import mysql.connector 
 
-mydb=mysql.connector.connect(host="localhost",user="root",password='Siddharth@123') 
+mydb=mysql.connector.connect(host="localhost",user="root",password='*******') 
 
 mycursor=mydb.cursor() 
 
